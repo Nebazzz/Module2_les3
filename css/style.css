@@ -29,6 +29,14 @@ h2 {
 }
 
 .title-item {
+  background: no-repeat left center;
   background-color: beige;
-  
+  border-radius: 30px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.list {
+  display: block;
+  padding: 30px;
 }
